@@ -10,3 +10,4 @@ data/raw/
 data/filtered_complaints.csv
 data/processed/*.csv
 vector_store/
+data/complaint_embeddings.parquet
